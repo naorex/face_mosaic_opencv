@@ -1,4 +1,6 @@
 Include/
+input_photo/
 Lib/
+output_photo/
 Scripts/
 pyvenv.cfg
